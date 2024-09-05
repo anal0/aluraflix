@@ -1,8 +1,12 @@
 body{
+    font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
     color:rgb(221, 185, 255);
     background:blueviolet;
 }
 header {
+    
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
@@ -19,6 +23,9 @@ section {
     margin-right: 5%;
 }
 h1{
+     font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
     font-size: 40px;
         }
 
