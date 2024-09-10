@@ -1,12 +1,8 @@
 body{
-    font-family: "Nerko One", cursive;
-  font-weight: 400;
-  font-style: normal;
     color:rgb(221, 185, 255);
     background:blueviolet;
 }
 header {
-    
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
@@ -22,18 +18,3 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
-h1{
-     font-family: "Nerko One", cursive;
-  font-weight: 400;
-  font-style: normal;
-    font-size: 40px;
-        }
-
-p{
-    font-size: 20px;
-}
-
-https://www.youtube.com/watch?v=BEs_fP37lNo
-https://www.youtube.com/watch?v=jAdIZ_xa9II
-https://www.youtube.com/watch?v=XmEH4F8u2oY
-https://www.youtube.com/watch?v=iv0PJLZ7s-Q
