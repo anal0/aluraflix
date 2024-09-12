@@ -18,3 +18,24 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
+
+h1{
+    font-size: 40px;
+    font-family: "Rubik Mono One", monospace;
+    font-wheith: 400;
+    font-style: normal;
+}
+
+p{
+    font-size: 20px
+}
+
+img{
+    height: 200px;
+}
+
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
